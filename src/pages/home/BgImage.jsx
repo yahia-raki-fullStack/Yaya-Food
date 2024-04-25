@@ -16,11 +16,11 @@ function BgImage() {
   }, []);
 
   const images = [
-    "src/BgImg/bg-1.jpg",
-    "src/BgImg/bg-2.jpg",
-    "src/BgImg/bg-3.jpg",
-    "src/BgImg/bg-4.jpg",
-    "src/BgImg/bg-5.jpg",
+    "/bg-1.jpg",
+    "/bg-2.jpg",
+    "/bg-3.jpg",
+    "/bg-4.jpg",
+    "/bg-5.jpg",
   ];
 
   return (
